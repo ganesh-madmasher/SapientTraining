@@ -1,0 +1,31 @@
+commit e195845794b3dc81efd13162b3cb0429ca6b2001 (HEAD -> master)
+Merge: c5df21a dc420c3
+Author: Ganesh Sri Sai Pavan <rickrocksganesh@gmail.com>
+Date:   Tue Jun 21 15:42:53 2022 +0530
+
+    Merge branch 'research_development'
+
+commit dc420c34e21bbb3b1061eadafacb24fbbfeb0a25 (research_development)
+Author: Ganesh Sri Sai Pavan <rickrocksganesh@gmail.com>
+Date:   Tue Jun 21 15:41:58 2022 +0530
+
+    deleted files
+
+commit c5df21a1a5479a83102f669f2c18f62af5130fa4
+Author: Ganesh Sri Sai Pavan <rickrocksganesh@gmail.com>
+Date:   Tue Jun 21 15:19:31 2022 +0530
+
+    removing third.txt
+    removing third.txt
+
+commit 6dbfbc45de8e2b6fd2c06d4b2069df4d8d02a6db
+Author: Ganesh Sri Sai Pavan <rickrocksganesh@gmail.com>
+Date:   Tue Jun 21 15:17:48 2022 +0530
+
+    adding fourth.txt
+
+commit c87e48a166e6cc77eba62fbf49bbd17f679bb256
+Author: Ganesh Sri Sai Pavan <rickrocksganesh@gmail.com>
+Date:   Tue Jun 21 15:15:52 2022 +0530
+
+    adding third.txt
